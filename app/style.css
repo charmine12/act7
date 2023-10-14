@@ -1,0 +1,28 @@
+body{
+    background-image: url(monkey.gif);
+    background-repeat: no-repeat;
+    background-size: 1900px 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center
+
+}
+button {
+    height: 29px;
+    width: 90px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px double #0e1412;
+    border-radius: 15px;
+    font-size: 16px;
+    background-color: rgb(49, 230, 36);
+    margin: 10;
+    box-sizing: border-box;
+  }
+label {
+    color: rgb(60, 201, 25);
+    padding: 8px;
+  }
+ hr{
+    background-color: rgb(216, 38, 136);
+  }
